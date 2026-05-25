@@ -322,6 +322,3 @@ Enfoque académico: **Visión Artificial, Machine Learning y procesamiento de im
 Este repositorio contiene material académico elaborado con fines educativos.
 
 Puedes utilizarlo como recurso de estudio, referencia o apoyo para proyectos relacionados con visión artificial, citando adecuadamente al autor cuando corresponda.
-
-```
-```
