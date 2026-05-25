@@ -1,5 +1,3 @@
-Claro. Aquí tienes un `README.md` en español, con estilo profesional de portfolio, adaptado a un repositorio cuyo contenido principal es una guía PDF de iniciación a la visión artificial basada en el documento adjunto. La guía cubre fundamentos de imagen, OpenCV, puntos de interés, transformada de Hough y aprendizaje automático aplicado a visión artificial. 
-
 # 👁️ Guía de Iniciación a la Visión Artificial
 
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Gu%C3%ADa%20Acad%C3%A9mica-0A66C2?style=for-the-badge&logo=opencv&logoColor=white)
