@@ -323,11 +323,5 @@ Este repositorio contiene material académico elaborado con fines educativos.
 
 Puedes utilizarlo como recurso de estudio, referencia o apoyo para proyectos relacionados con visión artificial, citando adecuadamente al autor cuando corresponda.
 
----
-
-## ⭐ Nota Final
-
-Si esta guía te resulta útil para estudiar Visión Artificial, preparar exámenes o repasar fundamentos de Computer Vision, considera dejar una estrella al repositorio.
-
 ```
 ```
